@@ -1,0 +1,1 @@
+//https://teachablemachine.withgoogle.com/models/S7_VNRs-d/
