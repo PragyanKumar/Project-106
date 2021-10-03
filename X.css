@@ -1,0 +1,33 @@
+body{
+    font-family: cursive;
+    background-color: rgb(93, 250, 20);
+}
+.header_div{
+    background:coral;
+    color:rgb(252, 130, 16);
+}
+.header_div p{
+    font-family:Arial, Helvetica, sans-serif;
+    color: teal;
+    letter-spacing: 2px;
+    font-size: 25px;
+    font-weight: bold;
+}
+.main_div button{
+    font-family:monospace;
+    margin-top: 30px;
+    width: 130px;
+    font-weight:inherit;
+    letter-spacing: 3px; 
+}
+.copy_right_footer{
+    position:fixed;
+    color: turquoise;
+    bottom: 0;
+    width: 100%;
+    font-size: 18px;
+    background-color: blue;
+    line-height: 3;
+    text-align: center;
+    text-shadow: 5px 5px 5px cyan;
+}
